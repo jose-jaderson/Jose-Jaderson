@@ -4,15 +4,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou dando meus
 
 ---
 
-### 💻 Habilidades e Tecnologias
+### 📚 Minha Jornada de Aprendizado
 
-Mesmo no começo, já estou me familiarizando com alguns conceitos fundamentais. Aqui estão as tecnologias e conceitos que estou aprendendo atualmente:
-
-* **Lógica de Programação**
-* **Git e GitHub** (para controle de versão)
-* **HTML**
-* **CSS**
-* **JavaScript**
+Estou focado em absorver os conceitos fundamentais da área. No momento, o meu objetivo é aprender e entender a base que sustenta o desenvolvimento de software.
 
 ---
 
