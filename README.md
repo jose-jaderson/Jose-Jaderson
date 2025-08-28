@@ -16,4 +16,6 @@ Ainda não tenho projetos completos para mostrar, mas em breve este espaço ser�
 
 ### 📫 Conecte-se Comigo
 
-* **LinkedIn:** []
+* **LinkedIn:** [www.linkedin.com/in/
+josé-jaderson-382518381
+]
