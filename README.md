@@ -1,21 +1,21 @@
-### Olá! Eu sou José Jáderson👋
+# 👋 Olá, eu sou José Jaderson
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou dando meus primeiros passos no mundo da programação. Este perfil é o meu ponto de partida para documentar meu progresso e compartilhar os projetos que vou desenvolver ao longo do curso.
+Sou estudante e estou iniciando minha jornada no mundo da programação.  
+Gosto de aprender com projetos práticos e compartilhar meus avanços por aqui no GitHub.  
 
----
+## 🚀 Tecnologias que estou aprendendo
+- Python 🐍
+- Git e GitHub 🌐
+- (em breve pretendo explorar HTML, CSS e JavaScript)
 
-### 📚 Minha Jornada de Aprendizado
+## 📌 Projetos em destaque
+- [Calculadora Simples em Python](https://github.com/seu-usuario/portfolio-pessoal)  
 
-Estou focado em absorver os conceitos fundamentais da área. No momento, o meu objetivo é aprender e entender a base que sustenta o desenvolvimento de software.
+## 🎯 Objetivos
+- Praticar lógica de programação através de pequenos projetos.  
+- Construir um portfólio com projetos cada vez mais completos.  
+- Evoluir como desenvolvedor e conquistar oportunidades na área de tecnologia.  
 
----
-
-### ✨ Projetos
-
-Ainda não tenho projetos completos para mostrar, mas em breve este espaço será preenchido com as atividades e trabalhos que farei na faculdade. O primeiro passo é o mais importante, e estou animado para começar a construir meu portfólio
-
-### 📫 Conecte-se Comigo
-
-* **LinkedIn:** [www.linkedin.com/in/
-josé-jaderson-382518381
-]
+## 📫 Contato
+- Email: **jaderson5325@gmail.com**  
+- LinkedIn: [https://www.linkedin.com/in/jos%C3%A9-jaderson-382518381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://linkedin.com/in/seuusuario)
