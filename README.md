@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou José Jaderson
+# 👋 Olá, eu sou José Jáderson
 
 Sou estudante e estou iniciando minha jornada no mundo da programação.  
 Gosto de aprender com projetos práticos e compartilhar meus avanços por aqui no GitHub.  
